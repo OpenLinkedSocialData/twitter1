@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:tw="http://purl.org/socialparticipation/tw/"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#QuartaSemRacismoClubeSDV_tw">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T04:38:37.980328</po:triplifiedIn>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00002.ttl</po:ttlFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot QuartaSemRacismoClubeSDV_tw</rdfs:label>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twMeta.owl</po:discorveryRDFFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #QuartaSemRacismoClubeSDV_tw hashtag</rdfs:comment>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00000.ttl</po:ttlFile>
+    <tw:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18100</tw:nMessages>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00000.owl</po:rdfFile>
+    <tw:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18100</tw:nParticipants>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00003.ttl</po:ttlFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00001.owl</po:rdfFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twMeta.ttl</po:discoveryTTLFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/twitter1/tree/master/QuartaSemRacismoClubeSDV_tw</po:availableAt>
+    <tw:nReTweets rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4023</tw:nReTweets>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-03</po:createdAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00003.owl</po:rdfFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00002.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/QuartaSemRacismoClubeSDV_twTranslate00001.ttl</po:ttlFile>
+    <tw:nReplies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">859</tw:nReplies>
+  </rdf:Description>
+</rdf:RDF>

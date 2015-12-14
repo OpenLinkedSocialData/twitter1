@@ -1,0 +1,49 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tw: <http://purl.org/socialparticipation/tw/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#art_tw> a po:Snapshot ;
+    rdfs:label "Snapshot art_tw"^^xsd:string ;
+    po:acquiredThrough "Twitter search engine"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/twitter1/tree/master/art_tw"^^xsd:string ;
+    po:createdAt "2015-12-03"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twMeta.ttl"^^xsd:string ;
+    po:donatedBy "labMacambira.sf.net"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00000.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00001.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00002.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00003.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00004.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00005.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00006.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00007.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00008.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00009.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00010.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00011.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00012.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T04:44:04.970589"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00000.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00001.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00002.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00003.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00004.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00005.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00006.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00007.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00008.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00009.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00010.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00011.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/art_twTranslate00012.ttl"^^xsd:string ;
+    tw:nMessages 61779 ;
+    tw:nParticipants 61779 ;
+    tw:nReTweets 26501 ;
+    tw:nReplies 741 ;
+    rdfs:comment "The Twitter messages related to tweets with the #art_tw hashtag"^^xsd:string .
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:tw="http://purl.org/socialparticipation/tw/"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#arenaNETmundial_tw">
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/arenaNETmundial_twMeta.owl</po:discorveryRDFFile>
+    <tw:nReTweets rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13291</tw:nReTweets>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-03</po:createdAt>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <tw:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22694</tw:nParticipants>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #arenaNETmundial hashtag</rdfs:comment>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/arenaNETmundial_twTranslate00000.owl</po:rdfFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/twitter1/tree/master/arenaNETmundial_tw</po:availableAt>
+    <tw:nReplies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1426</tw:nReplies>
+    <tw:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22694</tw:nMessages>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot arenaNETmundial_tw</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/arenaNETmundial_twMeta.ttl</po:discoveryTTLFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/arenaNETmundial_twTranslate00000.ttl</po:ttlFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T04:40:01.541396</po:triplifiedIn>
+  </rdf:Description>
+</rdf:RDF>

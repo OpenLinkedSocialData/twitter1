@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:tw="http://purl.org/socialparticipation/tw/"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#SnapDetremura_tw">
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/twitter1/tree/master/SnapDetremura_tw</po:availableAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T04:40:06.444714</po:triplifiedIn>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot SnapDetremura_tw</rdfs:label>
+    <tw:nReTweets rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</tw:nReTweets>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/SnapDetremura_twTranslate00000.owl</po:rdfFile>
+    <tw:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1300</tw:nMessages>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #SnapDetremura_tw hashtag</rdfs:comment>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-03</po:createdAt>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/SnapDetremura_twMeta.owl</po:discorveryRDFFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/SnapDetremura_twTranslate00000.ttl</po:ttlFile>
+    <tw:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1300</tw:nParticipants>
+    <tw:nReplies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</tw:nReplies>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter1/master/rdf/SnapDetremura_twMeta.ttl</po:discoveryTTLFile>
+  </rdf:Description>
+</rdf:RDF>
